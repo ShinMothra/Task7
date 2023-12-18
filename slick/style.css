@@ -1,0 +1,17 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+body {
+  padding: 50px;
+  background-color: #999;
+}
+.slider__img {
+  margin: 250px auto;
+  height: 300px;
+}
+.slider__img img {
+  margin: auto;
+  border: solid 5px black;
+  width: 400px;
+  height: 300px;
+}
